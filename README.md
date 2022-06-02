@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any tips on rendering a website
 - 🤔 I’m looking for help with developing new ideas
 - 💬 Ask me about Content. Just content in general
-- 📫 How to reach me: @thezanboor is my Twitter Handle
+- 📫 How to reach me: @thezanboor is my Twitter Handle and also read https://thezanboor.github.io/ too.
 -->
